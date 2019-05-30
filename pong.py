@@ -31,7 +31,7 @@ ball.shape("square")
 ball.color("white")
 ball.penup()
 ball.goto(0,0)
-
+# whats up dil
 
 # Main game loop
 while True:
